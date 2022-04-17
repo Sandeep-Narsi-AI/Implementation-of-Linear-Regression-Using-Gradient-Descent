@@ -68,12 +68,12 @@ plt.xlabel("Iterations")
 plt.ylabel("Loss")
 plt.show()
 ```
-
+git 
 ## Output:
 ![linear regression using gradient descent](OUTPUT.png)
 
 
 ## Result:
 ```
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+Thus the program to implement the linear regression using gradient descent is written and verified using python programming
 ```
