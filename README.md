@@ -74,6 +74,5 @@ git
 
 
 ## Result:
-```
+
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming
-```
